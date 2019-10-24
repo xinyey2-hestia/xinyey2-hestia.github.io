@@ -9,12 +9,12 @@ baseurl: "/adam-blog" # the subpath of your site, e.g. /blog
 url: "http://xinyey2-hestia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Adam Neilson # add your name
-author-pic: adam-face.jpg
-about-author: My name is Adam Neilson. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
+author: love # add your name
+author-pic: sola.jpg
+about-author: 
 
 # Contact links
-email: # Add your Email address
+email: carlyang1998@gmail.com
 phone: # Add your Phone number
 website: # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
